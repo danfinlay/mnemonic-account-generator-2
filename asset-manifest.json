@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mnemonic-account-generator-2/static/css/main.52ece3ed.css",
+    "main.js": "/mnemonic-account-generator-2/static/js/main.ebc30667.js",
+    "static/js/453.fd391dc8.chunk.js": "/mnemonic-account-generator-2/static/js/453.fd391dc8.chunk.js",
+    "index.html": "/mnemonic-account-generator-2/index.html",
+    "main.52ece3ed.css.map": "/mnemonic-account-generator-2/static/css/main.52ece3ed.css.map",
+    "main.ebc30667.js.map": "/mnemonic-account-generator-2/static/js/main.ebc30667.js.map",
+    "453.fd391dc8.chunk.js.map": "/mnemonic-account-generator-2/static/js/453.fd391dc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ece3ed.css",
+    "static/js/main.ebc30667.js"
+  ]
+}
