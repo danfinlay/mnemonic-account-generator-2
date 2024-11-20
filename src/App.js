@@ -212,6 +212,7 @@ export default function MnemonicGenerator() {
           </div>
         )}
       </main>
+      <footer><a href="https://github.com/danfinlay/mnemonic-account-generator-2">View on GitHub</a></footer>
     </div>
   )
 }

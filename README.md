@@ -2,7 +2,7 @@
 
 A single page app for displaying many crypto-currency accounts that can be generated from a single mnemonic phrase.
 
-[Live Demo](https://danfinlay.github.io/mnemonic-account-generator-2/).
+[Live Instance](https://danfinlay.github.io/mnemonic-account-generator-2/).
 
 For greatest security, only use on a computer you fully trust.
 
